@@ -56,7 +56,7 @@ public class CodingExamA {
 					robot.move((int)drive);
 					robot.turn(turn);
 				}
-				
+				robot.hide();
 			});
 		}
 		
